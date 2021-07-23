@@ -9,13 +9,13 @@
     </groups>
     <templates>
         <template>
-            <template>Template Module YUM updateinfo by Zabbix trapper</template>
+            <template>ITFINDEN Template Module YUM updateinfo by Zabbix trapper</template>
             <name>Template Module YUM updateinfo by Zabbix trapper</name>
             <description>Retrieve information about available updates and security fixes (if supported; CentOS does not provide security errata in their repositories).
 
 Requires yum-updateinfo.sh script to be run periodically on host to send the item data to Zabbix.
 
-Created by Robin Roevens (robin.roevens (at) disroot.org)</description>
+</description>
             <groups>
                 <group>
                     <name>Templates/Modules</name>
