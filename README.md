@@ -3,6 +3,7 @@
 pre - requisitos
 
 yum install -y zabbix-sender
+
 yum install -y yum-plugin-security
 
 Instalacion
