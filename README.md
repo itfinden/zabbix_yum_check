@@ -1,5 +1,10 @@
 # zabbix_yum_check
 
+pre - requisitos
+
+yum install -y zabbix-sender
+yum install -y yum-plugin-security
+
 Instalacion
 
 los archivos de script colocarlos en /etc/zabbix/scripts/
